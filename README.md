@@ -2,6 +2,8 @@
 
 Este repositório apresenta uma análise exploratória de dados (EDA) sobre o uso excessivo de celulares entre diferentes faixas etárias, gêneros e plataformas digitais. A motivação central é entender como o uso prolongado de dispositivos móveis pode impactar a saúde mental, especialmente entre os jovens.
 
+> **Fonte dos dados:** [Social Media Addiction vs Relationships (Kaggle)](https://www.kaggle.com/datasets/adilshamim8/social-media-addiction-vs-relationships)
+
 ---
 
 ## 🧾 Objetivo
@@ -37,12 +39,14 @@ Investigar padrões de comportamento digital, identificar grupos mais vulneráve
 
 ## 📈 Visualizações Criadas
 
-- Conflitos por Idade  
+- Porcentagem de Usuários com Uso Acima de 5h por Idade  
+- Conflitos Sociais por Idade  
 - Vício em Celular por Aplicativo  
 - Vício em Celular por Idade  
-- Uso Médio por Aplicativo  
-- Uso Médio por Idade  
+- Uso Médio de Celular por Aplicativo  
+- Uso Médio de Celular por Idade  
 - Total de Horas por Gênero  
+- Total Hours Day by Gender  
 
 ---
 
@@ -70,11 +74,12 @@ Este repositório é um ponto de partida. A partir daqui, é possível expandir 
 - **Python**  
 - **Pandas**  
 - **Matplotlib & Seaborn**  
-- Google Colab (para prototipagem e análise)
+- **Google Colab** (para prototipagem e análise)
 
 ---
 
 ## 📬 Contribuições
 
-Sugestões, melhorias e colaborações são muito bem-vindas! Sinta-se à vontade para abrir uma issue ou fazer um fork do projeto.
+Sugestões, melhorias e colaborações são muito bem-vindas!  
+Sinta-se à vontade para abrir uma **issue** ou fazer um **fork** do projeto.
 
